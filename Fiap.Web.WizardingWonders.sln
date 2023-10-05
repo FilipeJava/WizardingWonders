@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.Web.WizardingWonders", "Fiap.Web.WizardingWonders\Fiap.Web.WizardingWonders.csproj", "{D0C110B9-EEEA-4A01-85F9-948A2C5024DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0C110B9-EEEA-4A01-85F9-948A2C5024DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C110B9-EEEA-4A01-85F9-948A2C5024DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C110B9-EEEA-4A01-85F9-948A2C5024DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C110B9-EEEA-4A01-85F9-948A2C5024DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECB98B78-7A47-441F-8C45-D6ADF61EFD56}
+	EndGlobalSection
+EndGlobal
